@@ -1,3 +1,5 @@
+// this is example of first make project on laptop then send to github repository
+
 // Init command
 // use to create a new git repo means first make project on pc then upload on git repo
 
